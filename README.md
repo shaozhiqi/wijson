@@ -16,19 +16,26 @@ JSON 离线格式化工具，下载可用；之前一值用在线格式化，在
 
 1.  Json格式化
 1.1 默认外观
-![输入图片说明](image.png)
+<img width="1108" height="727" alt="image" src="https://github.com/user-attachments/assets/35cb9606-45e5-406c-a087-b92c3fdbdaac" />
+
 1.2 暗色外观
-![输入图片说明](image2.png)
+<img width="1111" height="739" alt="image" src="https://github.com/user-attachments/assets/26446b50-5db2-4f69-854f-aa91ad36f7bd" />
+
 2.  表格展示模式
 2.1 在表格展示模式下，Json串中涉及数组的会转为table展示
-![输入图片说明](table1.png)，![输入图片说明](table3.png)
+<img width="1111" height="739" alt="image" src="https://github.com/user-attachments/assets/74ce35aa-8664-4e1e-908a-69e4977114f2" />
+<img width="984" height="739" alt="image" src="https://github.com/user-attachments/assets/917f79ee-2e8d-4767-9ded-2e286b8e3e17" />
+
 2.2 表格展示模式下，可复制表格数据，数据可直接粘贴到Excel或记事本中
-![输入图片说明](table2.png)
-3.  树状展示模式
-![输入图片说明](tree1.png)
-4. 支持文件接受文件解析
-![输入图片说明](upload.png)
-5. 窗口大小支持拖拽和全屏
+<img width="1202" height="739" alt="image" src="https://github.com/user-attachments/assets/91296410-f90a-4f3a-9a62-89a90087d9c3" />
+
+4.  树状展示模式
+<img width="1202" height="739" alt="image" src="https://github.com/user-attachments/assets/c70d4c5d-e0e7-4256-b50b-7683a4b874d8" />
+
+6. 支持文件接受文件解析
+<img width="994" height="212" alt="image" src="https://github.com/user-attachments/assets/4b448701-3384-400e-ad29-7e3326877bc6" />
+
+7. 窗口大小支持拖拽和全屏
 
 
 
