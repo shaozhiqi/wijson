@@ -10,7 +10,7 @@ JSON 离线格式化工具，下载可用；之前一值用在线格式化，在
 #### 安装教程
 
 1. 下载exe，打开即可运行
-2. 下载入口建发新版或release；或者点此链接：https://gitee.com/zhiqishao/wijson/releases/download/v1.0.0/WiJson.exe
+2. 下载入口建发新版或release；或者点此链接：https://github.com/shaozhiqi/wijson/releases/download/v1.0.0/WiJson.exe
 
 #### 使用说明
 
